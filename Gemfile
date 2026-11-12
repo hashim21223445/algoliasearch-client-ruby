@@ -8,7 +8,7 @@ group :development do
   gem 'highline', '< 1.7.0'
   gem 'coveralls'
   gem 'safe_yaml', '~> 1.0.4'
-  gem 'travis'
+  gem 'travis', '>= 1.12.0'
   gem 'rake'
   gem 'rdoc'
 end
